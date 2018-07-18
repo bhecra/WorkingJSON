@@ -1,8 +1,8 @@
 # Descripcion 
 ¿Qué ha cambiado?
 
-- [ ] Avion agregado 
-- [ ] Nuevas Caracteristicas agragadas
+- [ ] Nuevos usuarios agregados 
+- [ ] Nuevas Caracteristicas agregadas
 - [ ] Configuracion del proyecto
 - [ ] Nuevas escenas
 
