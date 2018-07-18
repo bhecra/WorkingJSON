@@ -1,0 +1,21 @@
+{
+    users: [
+        {
+            "name":"name1",
+            "pass":"pass1"
+        },
+        {
+            "name":"name2",
+            "pass":"pass2"
+        },
+        {
+            "name":"name3",
+            "pass":"pass3"
+        },
+        {
+            "name":"name4",
+            "pass":"pass4"
+        }
+        
+    ]
+}
